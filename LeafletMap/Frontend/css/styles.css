@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#menu {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+#menu img {
+    width: 100px;
+}
+
+
+
+#map {
+    height: 600px;
+    width: 99.9%;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    border-radius: 10px; /* Köşeleri yuvarla */
+    overflow: hidden;
+}
+
+#list {
+    padding: 20px;
+}
+
+/* Tablo Stili */
+#markerTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#markerTable td, #markerTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#markerTable tr:nth-child(even){background-color: #f2f2f2;}
+
+#markerTable tr:hover {background-color: #ddd;}
+
+#markerTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #251212ad; /* Yeşil */
+    color: white;
+}
+
+#save-button {
+    background-color: #1b76dd;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px auto; /* Yatayda ortalamak için auto kullanılır */
+    display: block; /* Block elemente dönüştürür */
+    border-radius: 4px;
+}
+
+#save-button:hover {
+    background-color: #1757a0;
+}
+
+#download-button {
+    background-color: #494bac;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px 20px 10px auto; /* Yatayda sağa yaslamak için auto kullanılır */
+    display: block; /* Block elemente dönüştürür */
+    border-radius: 4px;
+}
+#download-button:hover {
+    background-color: #2f307c;
+}
+
+#show-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px; 
+    margin-right: 10px; /* Sağ taraftan 10 piksel boşluk */
+}
+#show-button:hover {
+    background-color: #267229;
+}
+
+#delete-button {
+    background-color: #ff0000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px; 
+}
+#delete-button:hover {
+    background-color: #6e0c0c;
+}
+

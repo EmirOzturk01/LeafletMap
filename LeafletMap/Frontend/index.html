@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAMM Teknoloji Web Uygulaması</title>
+    <link rel="stylesheet" href="./css/styles.css" type="text/css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+<body>
+    <div id="menu">
+        <br>
+        <img src="images/samm.png" alt="SAMM Image" id="Samm-image">
+        <br>
+    </div>
+        <div id="map"></div>
+        <br>
+        <div id="button-container">
+            <button id="save-button">Noktayı Kaydet</button>
+            <button id="download-button">JSON İndir<JSON İndir</button>
+        </div>
+        <div id="list">
+            <table id="markerTable">
+            </table>
+        </div>  
+
+    <!-- Gerekli script importları -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/Main.js"></script>
+    <script src="./js/SaveData.js"></script>
+    <script src="./js/GetData.js"></script>
+    <script src="./js/DeleteData.js"></script>
+    <script src="./js/GetDataById.js"></script>
+    
+</body>
+</html>
+

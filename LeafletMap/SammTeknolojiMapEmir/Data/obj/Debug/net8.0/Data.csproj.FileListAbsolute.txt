@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\bin\Debug\net8.0\Data.dll
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.dll
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\pc\source\repos\SammTeknolojiMapEmir\Data\obj\Debug\net8.0\ref\Data.dll
