@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Data\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

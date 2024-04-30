@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59428E60-6542-4DAF-8E8B-0390637893DD}|Data\\Data.csproj|c:\\users\\pc\\documents\\github\\leafletmap\\leafletmap\\sammteknolojimapemir\\data\\json\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59428E60-6542-4DAF-8E8B-0390637893DD}|Data\\Data.csproj|solutionrelative:data\\json\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\Json\\data.json",
+              "RelativeDocumentMoniker": "Data\\Json\\data.json",
+              "ToolTip": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\Json\\data.json",
+              "RelativeToolTip": "Data\\Json\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T00:08:59.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

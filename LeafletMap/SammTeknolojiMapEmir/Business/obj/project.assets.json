@@ -79,11 +79,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Business\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Data\\Data.csproj"
+            "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Data\\Data.csproj"
             }
           }
         }

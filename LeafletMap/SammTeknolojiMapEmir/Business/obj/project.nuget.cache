@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uoxh2aWCFIPKilP04FgHVr7H7aBBQuJ6/BVGYeeIXBvqUb4aMwUePR30FyEPaPOP7hfmifenOmoXSPbhIoBSuw==",
+  "dgSpecHash": "iqN0JHUOWzjkQMqA4w9FV1PSisa7ymBu920iqHMtbgKqMS0Jq0JBYrvENJnv8MQAZe84foxOvySyJoJPxVdWxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\SammTeknolojiMapEmir\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Documents\\GitHub\\LeafletMap\\LeafletMap\\SammTeknolojiMapEmir\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
